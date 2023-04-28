@@ -175,6 +175,15 @@ input, select, textarea {
 		font-style: italic;
 		padding: 1em 0 1em 2em;
 	}
+	#google_translate_element {
+		height: 32px !important;
+		font-size: 10px; /* Set the font size */
+		/* background-color: #fff; Set the background color */
+		border: 0px solid #ccc; /* Set the border */
+		border-radius: 4px; /* Set the border radius */
+		padding: 19; /* Set the padding */
+		margin-right: 0px; /* Add some margin to separate it from other elements */
+	  }
 
 /* Container */
 
